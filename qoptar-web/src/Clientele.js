@@ -4,7 +4,7 @@ import React from "react";
 function Clientele() {
   return (
   <div className="Clientele w-3/4 mx-auto">
-    <h2 className="text-3xl text-white font-medium text-center py-10">Our Clientele</h2>
+    <h2 className="text-3xl text-white font-medium text-center pt-10">Our Clientele</h2>
     <div className="flex flex-row py-5 text-white">
       <Card 
       imgSrc=""
