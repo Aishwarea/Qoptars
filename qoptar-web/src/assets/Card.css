@@ -1,0 +1,36 @@
+.Card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    height: fit-content;
+    align-items: center;
+    font-family: 'Montserrat','Poppins','Roboto';
+}
+.CardHeader{
+
+    margin: 5px;
+    background-color:  #262626;
+    height: 20vh;
+    width: 100%;
+}
+.CardImg{
+    width: 100%;
+    height: 23rem;
+    border-radius: 1rem 1rem 0 0;
+    object-fit: cover;
+}
+.CardTitle .CardSubtitle{
+    font-size: 1.5 rem;
+    margin: 0.5 rem;
+    font-family:'Roboto';
+    text-align: center;
+    color: white;
+}
+.CardDescription{
+    font-family: 'Montserrat';
+    font-size: 0.7rem;
+    text-align: center;
+    color: white;
+}
+  
