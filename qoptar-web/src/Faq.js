@@ -12,7 +12,7 @@ function Faq() {
       </h2>
       <div className="py-5 text-white">
         <form className="w-2/3 max-w-lg">
-          <label className="block mb-2" for="name">
+          <label className="block mb-2">
             <input
               className="bg-gray shadow appearance-none rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
               id="name"
@@ -22,7 +22,6 @@ function Faq() {
           </label>
           <label
             className="block text-white text-sm font-bold mb-2"
-            for="Email"
           >
             <input
               className="bg-gray shadow appearance-none rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -33,7 +32,6 @@ function Faq() {
           </label>
           <label
             className="block text-white text-sm font-bold mb-2"
-            for="Contact No."
           >
             <input
               className="bg-gray shadow appearance-none rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"

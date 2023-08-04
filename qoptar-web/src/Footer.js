@@ -12,17 +12,17 @@ function Footer(){
 Indian Institute Of Technology Hyderabad,
 Kandi, Sangareddy, Telangana - 502285</p>
                 </div>
-                <div className="w-1/4 flex flex-col pt-20">
+                <div className="w-1/4 flex flex-col pt-20 px-10">
                     <p className="text-xs font-light pt-8">AirFPV</p>
                     <p className="text-xs font-light ">Support</p>
                 </div>
-                <div className="w-1/4 flex flex-col pt-20">
+                <div className="w-1/4 flex flex-col pt-20 px-10">
                     <p className="text-xs font-light pt-5">Instagram</p>
                     <p className="text-xs font-light ">LinkedIN</p>
                     <p className="text-xs font-light ">Youtube</p>
                 </div>
             </div>
-            <p className="text-xs font-light text-center py-10">© 2023 Qoptars Pvt. Ltd. All Rights Reserved.</p>
+            <p className="text-xs font-light text-center py-10 pl-5">© 2023 Qoptars Pvt. Ltd. All Rights Reserved.</p>
         </div>
     );
 }
