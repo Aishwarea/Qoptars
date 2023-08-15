@@ -2,8 +2,8 @@ import React from "react";
 
 function Faq() {
   return (
-    <div className="Faq w-3/4 mx-auto pb-20">
-      <h2 className="text-3xl text-white font-medium py-5">
+    <div className="Faq w-5/6 mx-auto pb-20 ">
+      <h2 className="text-3xl text-white font-medium py-5 md:text-4xl xl:text-5xl">
         Want to say hello?
         <br />
         Have questions?
