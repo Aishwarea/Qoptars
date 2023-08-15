@@ -13,12 +13,12 @@ function Footer() {
             Kandi, Sangareddy, Telangana - 502285
           </p>
         </div>
-        <div className="w-1/4 px-0 flex flex-col pt-20 md:px-5 xl:px-10">
-          <p className="text-xs font-light pt-8 xl:text-sm">AirFPV</p>
+        <div className="w-1/4 px-0 flex flex-col pt-20 md:px-10 xl:px-40">
+          <p className="text-xs font-light pt-8 xl:text-sm xl:pt-20">AirFPV</p>
           <p className="text-xs font-light xl:text-sm">Support</p>
         </div>
-        <div className="w-1/4 px-0 pt-20 flex flex-col md:px-5 xl:px-10">
-          <p className="text-xs font-light pt-5 xl:text-sm">Instagram</p>
+        <div className="w-1/4 px-0 pt-20 flex flex-col md:px-10 xl:px-40">
+          <p className="text-xs font-light pt-5 xl:text-sm xl:pt-16">Instagram</p>
           <p className="text-xs font-light xl:text-sm">LinkedIN</p>
           <p className="text-xs font-light xl:text-sm">Youtube</p>
         </div>
